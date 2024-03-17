@@ -1,0 +1,17 @@
+.wrapper {
+  position: fixed;
+  top: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  column-gap: 3rem;
+}
